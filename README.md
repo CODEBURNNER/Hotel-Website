@@ -1,19 +1,19 @@
 # 🏨 Hotel Limon
 
-[![Website](https://img.shields.io/badge/Visit-Live%20Website-blue)](https://hotellimon.vercel.app)
+[![Website](https://img.shields.io/badge/Visit-Live%20Website-blue)](https://hotel-limon.vercel.app)
 
-Hotel Limon is a modern, responsive hotel booking website designed to provide users with a seamless experience for exploring rooms, offers, and services. Built with **React**, **Tailwind CSS**, and deployed on **Vercel**.
+Hotel Limon is a modern and responsive hotel booking website that provides an elegant interface for exploring rooms, offers, and customer reviews. It is built with **React** and **Tailwind CSS**, and deployed seamlessly on **Vercel**.
 
 ---
 
 ## 🌟 Features
 
-- **Beautiful Landing Page** – Engaging hero section with smooth navigation  
-- **Room Listings** – Detailed room cards with images and pricing  
-- **Offers & Promotions** – Lemon-themed promotional banners for discounts  
-- **Customer Reviews** – Scrollable testimonial section  
-- **Responsive Design** – Fully optimized for mobile, tablet, and desktop  
-- **Fast Deployment** – Hosted on Vercel for lightning-fast performance  
+- **Attractive Landing Page** – Engaging UI with smooth scrolling and navigation  
+- **Room Listings** – Beautifully designed cards with pricing and details  
+- **Offers & Promotions** – Lemon-themed promotional sections with discounts  
+- **Customer Reviews** – Testimonials section with a horizontal scrolling effect  
+- **Responsive Design** – Optimized for desktop, tablet, and mobile devices  
+- **Fast Hosting** – Deployed using **Vercel** for excellent performance  
 
 ---
 
@@ -21,13 +21,13 @@ Hotel Limon is a modern, responsive hotel booking website designed to provide us
 
 - **Frontend:** React, Tailwind CSS  
 - **Deployment:** Vercel  
-- **Other Tools:** React Icons, Swiper.js (if using for sliders)  
+- **Other Tools:** React Icons, Swiper.js (for sliders if applicable)  
 
 ---
 
 ## 🚀 Getting Started
 
-Clone the repository and run locally:
+Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
